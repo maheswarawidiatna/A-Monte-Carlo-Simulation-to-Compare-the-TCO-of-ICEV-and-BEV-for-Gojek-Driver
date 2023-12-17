@@ -73,6 +73,18 @@ The resale revenue is modeled for both "Beat Street" and "Viar New Q1." It consi
 
 The script includes functions for calculating the Net Present Value (NPV) of cash flows and conducting replications to assess the model's robustness. It allows users to analyze the NPV per distance traveled over multiple replications.
 
+## Simulation Result
+
+Beat Street
+![image](https://github.com/maheswarawidiatna/A-Monte-Carlo-Simulation-to-Compare-the-TCO-of-ICEV-and-BEV-for-Gojek-Driver/assets/94330691/937076e7-9e4a-424f-9fe8-95750fea1dda)
+
+Viar New Q1
+![image](https://github.com/maheswarawidiatna/A-Monte-Carlo-Simulation-to-Compare-the-TCO-of-ICEV-and-BEV-for-Gojek-Driver/assets/94330691/c1b091ea-0c01-4b5d-a745-ef2e20aa1869)
+
+Comparison
+![image](https://github.com/maheswarawidiatna/A-Monte-Carlo-Simulation-to-Compare-the-TCO-of-ICEV-and-BEV-for-Gojek-Driver/assets/94330691/8352950a-2ea3-4a90-9166-e1ef14ea2af5)
+
+
 ## Usage
 
 To use the script, update the parameters at the beginning of the file to match your specific scenario. Then, run the script using a Python interpreter. Review the results and analyze the generated plots to understand the financial implications of electric vehicle ownership under the specified conditions.
