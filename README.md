@@ -74,6 +74,7 @@ The resale revenue is modeled for both "Beat Street" and "Viar New Q1." It consi
 The script includes functions for calculating the Net Present Value (NPV) of cash flows and conducting replications to assess the model's robustness. It allows users to analyze the NPV per distance traveled over multiple replications.
 
 ## Simulation Result
+Below is the simulation result that depicts the profit/km change in Rupiah(Rp) that occurs as distance traveled/day in kilometers(Km) increases.
 
 Beat Street
 
