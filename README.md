@@ -17,6 +17,7 @@ This script is designed to model the cost and revenue of operating electric vehi
   - [Revenue](#revenue)
   - [Resale Revenue](#resale-revenue)
 - [NPV and Replication](#npv-and-replication)
+- [Simulation Result](#simulation-result) 
 - [Usage](#usage)
 
 ## Introduction
