@@ -76,12 +76,15 @@ The script includes functions for calculating the Net Present Value (NPV) of cas
 ## Simulation Result
 
 Beat Street
+
 ![image](https://github.com/maheswarawidiatna/A-Monte-Carlo-Simulation-to-Compare-the-TCO-of-ICEV-and-BEV-for-Gojek-Driver/assets/94330691/937076e7-9e4a-424f-9fe8-95750fea1dda)
 
 Viar New Q1
+
 ![image](https://github.com/maheswarawidiatna/A-Monte-Carlo-Simulation-to-Compare-the-TCO-of-ICEV-and-BEV-for-Gojek-Driver/assets/94330691/c1b091ea-0c01-4b5d-a745-ef2e20aa1869)
 
 Comparison
+
 ![image](https://github.com/maheswarawidiatna/A-Monte-Carlo-Simulation-to-Compare-the-TCO-of-ICEV-and-BEV-for-Gojek-Driver/assets/94330691/8352950a-2ea3-4a90-9166-e1ef14ea2af5)
 
 
