@@ -77,7 +77,3 @@ The script includes functions for calculating the Net Present Value (NPV) of cas
 ## Usage
 
 To use the script, update the parameters at the beginning of the file to match your specific scenario. Then, run the script using a Python interpreter. Review the results and analyze the generated plots to understand the financial implications of electric vehicle ownership under the specified conditions.
-
-## License
-
-This script is released under the [MIT License](LICENSE). Feel free to modify and distribute it according to your needs.
